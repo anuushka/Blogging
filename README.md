@@ -1,2 +1,2 @@
 # Blogging
-Medium Blog
+Just my Medium Blog
